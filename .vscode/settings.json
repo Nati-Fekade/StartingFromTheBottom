@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "level_one.h": "c",
+        "spritesheet.h": "c",
+        "game.h": "c",
+        "leveltwo.h": "c",
+        "foreground.h": "c"
+    }
+}
